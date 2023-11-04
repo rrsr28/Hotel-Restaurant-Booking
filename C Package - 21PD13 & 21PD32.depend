@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1643296142 source:c:\users\sanjay ram r r\downloads\c package - 21pd13 & 21pd32\c package - hotel.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+
+1643296117 source:c:\users\sanjay ram r r\downloads\c package - 21pd13 & 21pd32\c package - restaurant.c
+	<stdio.h>
+	<windows.h>
+
+1643296157 source:c:\users\sanjay ram r r\downloads\c package - 21pd13 & 21pd32\c package - linker.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+
+1642118638 c:\users\sanjay ram r r\downloads\c package - 21pd13 & 21pd32\c package - hotel.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+
+1641978024 c:\users\sanjay ram r r\downloads\c package - 21pd13 & 21pd32\c package - restaurant.c
+	<stdio.h>
+	<windows.h>
+
